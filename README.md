@@ -14,7 +14,7 @@ $ cd simple-go-server
 
 3. **Get the Packages**
 ```
-$ go get ./../
+$ go get ./...
 ```
 
 4. **Run the Project**
